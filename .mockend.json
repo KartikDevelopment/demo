@@ -1,6 +1,6 @@
 {
-  user{
-    id:"KARTIK",
-    password:"password"
+  "user":{
+    "id":"KARTIK",
+    "password":"password",
   }
 }
